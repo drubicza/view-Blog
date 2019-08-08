@@ -8,6 +8,7 @@ Ip selalu berubah = Pakai TOR
 #### Cara penginstalannya ####
 pkg update&&pkg upgrade
 pkg install python python2 python3
+pkg install tor
 python2 -m pip install requests
 python2 -m pip install TorRequest
 python -m pip install requests
