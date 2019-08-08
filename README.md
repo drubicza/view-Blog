@@ -16,3 +16,6 @@ python -m pip install TorRequest
 #### Cara pemakaiannya ####
 cd view-blog
 python2 run.py
+Masukan alamat website anda misalkan
+https://pahamisyntax.blogspot.com/2019/08/install-metasploit-in-termux-cli.html
+Ingat!!! Pakai http:// atau https://
